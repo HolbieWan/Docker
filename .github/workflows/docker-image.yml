@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/your-username/dockerfile-repo/extended-hello-alpine:latest
+          tags: ghcr.io/holbiewan/docker/extended-hello-alpine:latest
